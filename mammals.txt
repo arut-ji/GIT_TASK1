@@ -1,0 +1,80 @@
+สุนัขพันธุ์ Alaskan husky: mammals
+แมว Angora: mammals
+ละมั่ง: mammals
+สุนัขป่าอาร์กติก: mammals
+ควายเอเชีย: mammals
+ลิงทโมน: mammals
+ตัว Badger (สัตว์คล้ายหนู): mammals
+นกอินทรีหัวล้าน: birds
+หนูพุก: mammals
+วัวแดง: mammals
+ค้างคาว: mammals
+สุนัข Beagle: mammals
+หมี: mammals
+ตัวบีเวอร์: mammals
+แกะ Bighorn: mammals 
+วัวกระทิง: mammals
+หมีดำ: mammals
+ปลาวาฬสีน้ำเงิน: mammals
+หมูป่า: mammals
+แมวป่า Bobcat: mammals
+สุนัขพันธุ์ Bull mastiff: mammals
+อูฐ: mammals
+กวาง Caribou: mammals
+เลียงผา: mammals
+เสือชีต้า: mammals
+สุนัข ชิวาวา: mammals
+ลิงชิมแปนซี: mammals
+กระรอก Chipmunk: mammals
+สุนัข Cocker spaniel : mammals
+สิงโตภูเขา Cougar : mammals
+วัว : mammals
+หมาป่า Coyote : mammals
+ปลาโลมา : mammals
+ตัวพะยูน : mammals
+ช้าง : mammals
+ค้างคาว Flying Fox : mammals
+กวาง Gazelle : mammals
+ชะนี : mammals
+ยีราฟ : mammals
+กอริลลา : mammals
+หนู Hamster : mammals
+กระต่าย : mammals
+เม่น Hedgehog : mammals
+ฮิปโปโปเตมัส : mammals
+หมู : mammals
+วาฬหลังค่อม : mammals
+หมาใน : mammals
+ละมั่งอาฟริกา : mammal
+หมาป่า Jackal : mammal
+เสือจากัวร์ : mammal
+จิงโจ้ : mammal
+หมี Koala : mammal
+ลิง Lemur : mammal
+เสือดาว : mammal
+สิงโต : mammal
+ตัวลามะ : mammal
+พะยูนหางกลม แมนะที : mammal
+พังพอน Meerkat: mammals
+วาฬเพชฌฆาต: mammals
+นาก: mammals
+เสือดำ: mammals
+นกเพนกวิน: mammals
+หนู Quoll: mammals
+กระต่าย: mammals
+ตัว Raccoon: mammals
+กวางขนาดใหญ่: mammals
+แรด: mammals
+พะยูน: mammals
+สิงโตทะเล: mammals
+แมวน้ำ: mammals
+แกะ: mammals
+ตัว Sloth (สัตว์คล้ายกระรอก): mammals
+ตัว Tasmanian devil (สัตว์คล้ายสุนัข): mammals
+ช้างน้ำ: mammals
+หมู Warthog: mammals
+ละมั่ง Waterbuck: mammals
+ปลาวาฬ: mammals
+หมาป่า: mammals
+จามรี: mammals
+ม้าลาย: mammals
